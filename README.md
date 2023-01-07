@@ -1,5 +1,5 @@
 # Instagram_clone
-##Welcome!
+Welcome!
 
 This is just the homepage of older version of Instagram. Tried to give it a lil more older asthetic look by using Targaryen Dynasty as the main theme.
 Being my first project on Front-End Development I have just used HTML and CSS.
